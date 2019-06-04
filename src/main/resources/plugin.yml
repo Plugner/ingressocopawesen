@@ -1,0 +1,4 @@
+name: Ingresso
+version: ${project.version}
+main: de.sparkmc.copa.ingresso.Ingresso
+description: Plugin de ingressos para a copa
